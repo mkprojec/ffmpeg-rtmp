@@ -9,4 +9,4 @@ https://youtube.com/c/kridopratomo
 ###
 
 livestream without obs!
-livestream ffmpeg cli
+livestream ffmpeg cli facebook youtube tiktok and other livestream rtmp
